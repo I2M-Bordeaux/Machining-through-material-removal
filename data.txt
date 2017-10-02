@@ -1,0 +1,38 @@
+Machining (orthogonal or milling) choice
+orthogonal
+
+
+Cutting speed (m/s) Vc
+1
+
+Depth of cut (mm) a_p
+1
+
+Feed (mm) _f
+0.1
+
+Angular velocity (rad/s) omega
+200
+
+Rake angle (°) gamma_0
+6*3.14/180
+
+Tool edge radius (mm) R0
+31.5
+
+(°) rbec
+0.4
+
+Number of teeth
+2
+
+(°) r_eps 
+0.04
+
+If machining = milling
+(°) kappa_r 
+3.14/4
+
+Rubbing angle (°) lambda_s
+6*3.14/180
+
